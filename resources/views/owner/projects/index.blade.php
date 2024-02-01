@@ -30,7 +30,7 @@
     <table class="table">
       <thead>
         <tr>
-          <th>No.</th>
+          <th>Number.</th>
           <th>Project ID</th>
           <th>Title</th>
           <th>Description</th>
